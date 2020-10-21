@@ -1,7 +1,5 @@
 var NAVTREEINDEX6 =
 {
-"df/dce/namespacegraph.html":[8,0,9],
-"df/dd0/queue__using__two__stacks_8cpp.html":[10,0,2,9],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[10,0,2,9,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,9,0],
 "df/dd5/binary__search_8cpp.html":[10,0,15,0],
@@ -143,8 +141,8 @@ var NAVTREEINDEX6 =
 "globals_u.html":[10,1,0,20],
 "globals_vars.html":[10,1,2],
 "hierarchy.html":[9,2],
-"index.html":[0],
 "index.html":[],
+"index.html":[0],
 "index.html#autotoc_md60":[0,0],
 "index.html#autotoc_md61":[0,1],
 "index.html#autotoc_md62":[0,2],
