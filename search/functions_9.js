@@ -58,7 +58,7 @@ var searchData=
   ['iscyclicbfs_3584',['isCyclicBFS',['../d3/dbb/class_cycle_check.html#a399292a33edf87499daa52b51315aca5',1,'CycleCheck']]],
   ['iscyclicdfs_3585',['isCyclicDFS',['../d3/dbb/class_cycle_check.html#ad9a270ffba3a68539b92272c702e3474',1,'CycleCheck']]],
   ['iscyclicdfshelper_3586',['isCyclicDFSHelper',['../d3/dbb/class_cycle_check.html#a2f4485c08b45e7a21a2e86f9c3f01d8b',1,'CycleCheck']]],
-  ['isdigit_3587',['isDigit',['../da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180',1,'data_structures::linked_list::isDigit()'],['http://en.cppreference.com/w/cpp/string/byte/isdigit.html',0,'std::isdigit()']]],
+  ['isdigit_3587',['isdigit',['http://en.cppreference.com/w/cpp/string/byte/isdigit.html',0,'std::isdigit()'],['../da/dc3/linked__list_8cpp.html#ab1a372fe1e605bc0e0987dcdd7361180',1,'data_structures::linked_list::isDigit()']]],
   ['isempty_3588',['isEmpty',['../d1/def/classdata__structures_1_1linked__list_1_1list.html#ae8424a4fce3d483f7c85d6f6a5c79a1a',1,'data_structures::linked_list::list']]],
   ['isemptyqueue_3589',['isEmptyQueue',['../db/da9/classqueue.html#ac2fff88dce4d7d2eb7134af382bd1b31',1,'queue']]],
   ['isemptystack_3590',['isEmptyStack',['../d1/dc2/classstack.html#a066e4505155b009913c47b2648b1067a',1,'stack']]],
