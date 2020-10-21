@@ -1,5 +1,16 @@
 var NAVTREEINDEX5 =
 {
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a98ab8f75d981088369b89b8be2182483":[10,0,9,4,1],
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a98eb5807f21b783c341cab402ced6732":[10,0,9,4,13],
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#a9b2b5da35a6ba8ae203c33739ef0b91d":[10,0,9,4,6],
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aa799b4cec1681219887d89d037cfab50":[10,0,9,4,14],
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ab6171f4db68a5e50ae0f3500a63acd26":[10,0,9,4,7],
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,9,4,4],
+"dc/d38/ordinary__least__squares__regressor_8cpp.html#aecef32c2a4f39a3f7398949256d180a6":[10,0,9,4,9],
+"dc/d5a/rat__maze_8cpp.html":[10,0,0,6],
+"dc/d5a/rat__maze_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,0,6,2],
+"dc/d5a/rat__maze_8cpp.html#ab99107bfb4c6934cd4691868c66c0aa3":[10,0,0,6,1],
+"dc/d5a/rat__maze_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,0,6,0],
 "dc/d61/classgraph_1_1_graph.html":[9,0,4,1],
 "dc/d61/classgraph_1_1_graph.html#a34414f67c2e3ea89774839b36b1575f8":[9,0,4,1,0],
 "dc/d61/classgraph_1_1_graph.html#ae2f6992450faa2c3da93edea0818869a":[9,0,4,1,1],
@@ -238,16 +249,5 @@ var NAVTREEINDEX5 =
 "df/dc8/successive__approximation_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,11,15,2],
 "df/dc8/successive__approximation_8cpp.html#ae89c36add7c55298c5195d0a83de1456":[10,0,11,15,1],
 "df/dcb/namespacestrings.html":[8,0,43],
-"df/dce/namespacegraph.html":[8,0,9],
-"df/dce/namespacegraph.html":[9,0,4],
-"df/dd0/queue__using__two__stacks_8cpp.html":[10,0,2,9],
-"df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[10,0,2,9,1],
-"df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,9,0],
-"df/dd5/binary__search_8cpp.html":[10,0,15,0],
-"df/dd5/binary__search_8cpp.html#a78df202b718cfe3c2c9216979b08298d":[10,0,15,0,0],
-"df/dd5/binary__search_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089":[10,0,15,0,1],
-"df/ddd/connected__components_8cpp.html":[10,0,5,1],
-"df/ddd/connected__components_8cpp.html#a372ff051a7bc6c91d34a7b58edf8dfce":[10,0,5,1,0],
-"df/ddd/connected__components_8cpp.html#a88ec9ad42717780d6caaff9d3d6977f9":[10,0,5,1,4],
-"df/ddd/connected__components_8cpp.html#a8e9885e0dd49fcf8262a9868124deac9":[10,0,5,1,1]
+"df/dce/namespacegraph.html":[9,0,4]
 };
