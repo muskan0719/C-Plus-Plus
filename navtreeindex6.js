@@ -1,6 +1,7 @@
 var NAVTREEINDEX6 =
 {
 "df/dce/namespacegraph.html":[8,0,9],
+"df/dce/namespacegraph.html":[9,0,4],
 "df/dd0/queue__using__two__stacks_8cpp.html":[10,0,2,9],
 "df/dd0/queue__using__two__stacks_8cpp.html#a831ded10ecad88c14a8e22b96f4c1863":[10,0,2,9,1],
 "df/dd0/queue__using__two__stacks_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,2,9,0],
@@ -49,8 +50,8 @@ var NAVTREEINDEX6 =
 "functions_d.html":[9,3,0,4],
 "functions_e.html":[9,3,0,5],
 "functions_f.html":[9,3,0,6],
-"functions_func.html":[9,3,1,0],
 "functions_func.html":[9,3,1],
+"functions_func.html":[9,3,1,0],
 "functions_func_a.html":[9,3,1,1],
 "functions_func_b.html":[9,3,1,2],
 "functions_func_c.html":[9,3,1,3],
@@ -95,8 +96,8 @@ var NAVTREEINDEX6 =
 "functions_x.html":[9,3,0,23],
 "functions_y.html":[9,3,0,24],
 "functions_~.html":[9,3,0,25],
-"globals.html":[10,1,0],
 "globals.html":[10,1,0,0],
+"globals.html":[10,1,0],
 "globals_a.html":[10,1,0,1],
 "globals_b.html":[10,1,0,2],
 "globals_c.html":[10,1,0,3],
