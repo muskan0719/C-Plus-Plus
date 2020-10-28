@@ -151,7 +151,7 @@ var NAVTREEINDEX1 =
 "d4/d9c/primes__up__to__billion_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,10,26,0],
 "d4/d9d/sum__of__binomial__coefficient_8cpp.html":[10,0,10,31],
 "d4/d9d/sum__of__binomial__coefficient_8cpp.html#aa8dca7b867074164d5f45b0f3851269d":[10,0,10,31,2],
-"d4/d9d/sum__of__binomial__coefficient_8cpp.html#aacd6068b5908ce48cf1e96a3f8eb4e7b":[10,0,10,31,0],
+"d4/d9d/sum__of__binomial__coefficient_8cpp.html#ae1ca505751f5a6d3977b86372cfe75ea":[10,0,10,31,0],
 "d4/d9d/sum__of__binomial__coefficient_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4":[10,0,10,31,1],
 "d4/da0/gcd__iterative__euclidean_8cpp.html":[10,0,10,14],
 "d4/da0/gcd__iterative__euclidean_8cpp.html#ae48807fa2b7000afae599e67f327545e":[10,0,10,14,0],

@@ -36,7 +36,7 @@
 <!-- Node3 -->
 <g id="node3" class="node">
 <title>Node3</title>
-<g id="a_node3"><a xlink:href="../../dd/d47/namespacemath.html#aacd6068b5908ce48cf1e96a3f8eb4e7b" target="_top" xlink:title=" ">
+<g id="a_node3"><a xlink:href="../../dd/d47/namespacemath.html#ae1ca505751f5a6d3977b86372cfe75ea" target="_top" xlink:title=" ">
 <polygon fill="white" stroke="black" points="143,-38.5 143,-57.5 268,-57.5 268,-38.5 143,-38.5"/>
 <text text-anchor="middle" x="205.5" y="-45.5" font-family="Helvetica,sans-Serif" font-size="10.00">math::binomialCoeffSum</text>
 </a>

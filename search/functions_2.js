@@ -50,7 +50,7 @@ var searchData=
   ['binomial_5fstandard_5fdeviation_3097',['binomial_standard_deviation',['../d6/db0/binomial__dist_8cpp.html#af09e51f513cee647d41192ab0a872cdc',1,'binomial_dist.cpp']]],
   ['binomial_5fvariance_3098',['binomial_variance',['../d6/db0/binomial__dist_8cpp.html#acd4dd4558031e4c5d045c801f73d8861',1,'binomial_dist.cpp']]],
   ['binomial_5fx_5fsuccesses_3099',['binomial_x_successes',['../d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76',1,'binomial_dist.cpp']]],
-  ['binomialcoeffsum_3100',['binomialCoeffSum',['../dd/d47/namespacemath.html#aacd6068b5908ce48cf1e96a3f8eb4e7b',1,'math']]],
+  ['binomialcoeffsum_3100',['binomialCoeffSum',['../dd/d47/namespacemath.html#ae1ca505751f5a6d3977b86372cfe75ea',1,'math']]],
   ['bitset_3101',['bitset',['http://en.cppreference.com/w/cpp/utility/bitset/bitset.html',0,'std::bitset']]],
   ['boolalpha_3102',['boolalpha',['http://en.cppreference.com/w/cpp/io/manip/boolalpha.html',0,'std']]],
   ['breadth_5ffirst_5fsearch_3103',['breadth_first_search',['../df/dce/namespacegraph.html#a0e0d3bf6c8a63f8071395c53a3cd148d',1,'graph']]],

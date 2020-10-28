@@ -64,7 +64,7 @@ var searchData=
   ['binomial_5fstandard_5fdeviation_177',['binomial_standard_deviation',['../d6/db0/binomial__dist_8cpp.html#af09e51f513cee647d41192ab0a872cdc',1,'binomial_dist.cpp']]],
   ['binomial_5fvariance_178',['binomial_variance',['../d6/db0/binomial__dist_8cpp.html#acd4dd4558031e4c5d045c801f73d8861',1,'binomial_dist.cpp']]],
   ['binomial_5fx_5fsuccesses_179',['binomial_x_successes',['../d6/db0/binomial__dist_8cpp.html#a19ae0a6a2bd200fd1eb0e31b2bf4cc76',1,'binomial_dist.cpp']]],
-  ['binomialcoeffsum_180',['binomialCoeffSum',['../dd/d47/namespacemath.html#aacd6068b5908ce48cf1e96a3f8eb4e7b',1,'math']]],
+  ['binomialcoeffsum_180',['binomialCoeffSum',['../dd/d47/namespacemath.html#ae1ca505751f5a6d3977b86372cfe75ea',1,'math']]],
   ['bisection_5fmethod_2ecpp_181',['bisection_method.cpp',['../d7/d6a/bisection__method_8cpp.html',1,'']]],
   ['bit_5fand_182',['bit_and',['http://en.cppreference.com/w/cpp/utility/functional/bit_and.html',0,'std']]],
   ['bit_5fnot_183',['bit_not',['http://en.cppreference.com/w/cpp/utility/functional/bit_not.html',0,'std']]],
